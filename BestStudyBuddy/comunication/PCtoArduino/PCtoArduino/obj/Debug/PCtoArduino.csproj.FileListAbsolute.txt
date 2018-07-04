@@ -1,0 +1,15 @@
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\bin\Debug\PCtoArduino.exe.config
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\bin\Debug\PCtoArduino.exe
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\bin\Debug\PCtoArduino.pdb
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.csprojAssemblyReference.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\MainWindow.g.cs
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\App.g.cs
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino_MarkupCompile.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino_MarkupCompile.lref
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\MainWindow.baml
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.g.resources
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.Properties.Resources.resources
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.csproj.GenerateResource.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.exe
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\comunication\PCtoArduino\PCtoArduino\obj\Debug\PCtoArduino.pdb

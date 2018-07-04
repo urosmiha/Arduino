@@ -1,0 +1,14 @@
+c:\users\uros\source\repos\TalkToMe\TalkToMe\bin\Debug\TalkToMe.exe.config
+c:\users\uros\source\repos\TalkToMe\TalkToMe\bin\Debug\TalkToMe.exe
+c:\users\uros\source\repos\TalkToMe\TalkToMe\bin\Debug\TalkToMe.pdb
+c:\users\uros\source\repos\TalkToMe\TalkToMe\obj\Debug\TalkToMe.csprojResolveAssemblyReference.cache
+c:\users\uros\source\repos\TalkToMe\TalkToMe\obj\Debug\TalkToMe.csproj.CoreCompileInputs.cache
+c:\users\uros\source\repos\TalkToMe\TalkToMe\obj\Debug\TalkToMe.exe
+c:\users\uros\source\repos\TalkToMe\TalkToMe\obj\Debug\TalkToMe.pdb
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\bin\Debug\TalkToMe.exe.config
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\bin\Debug\TalkToMe.exe
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\bin\Debug\TalkToMe.pdb
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\obj\Debug\TalkToMe.csprojAssemblyReference.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\obj\Debug\TalkToMe.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\obj\Debug\TalkToMe.exe
+C:\Users\Dragan\Documents\Arduino\BestStudyBuddy\TalkToMe\TalkToMe\obj\Debug\TalkToMe.pdb
